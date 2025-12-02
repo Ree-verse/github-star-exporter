@@ -1,0 +1,28 @@
+# IDE & editors
+.zed
+__pycache__/
+
+# Build artifacts
+dist/
+build/
+*.egg-info/
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache/
+coverage.xml
+*.cover
+.pytest_cache/
+
+# Python virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Project output
+output.json

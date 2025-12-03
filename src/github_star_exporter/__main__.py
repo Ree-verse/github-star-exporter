@@ -37,7 +37,7 @@ def main() -> int:
     #                 Fore.RED,
     #             )
     #         )
-    #         return(1)
+    #         return 1
 
     try:
         export_starred_repos(
